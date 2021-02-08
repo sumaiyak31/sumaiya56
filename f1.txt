@@ -1,0 +1,3 @@
+first file in git
+new lines 
+my first sentence
